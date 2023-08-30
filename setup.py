@@ -22,7 +22,7 @@ with open("README.md") as f:
     LONG_DESCRIPTION, LONG_DESC_TYPE = f.read(), "text/markdown"
 URL = "https://github.com/cvs-health/blockeval"
 LICENSE = "Apache 2.0"
-AUTHORS = ["d'Acremont, Mathieu", "Audrey Lee"]
+AUTHORS = ["d'Acremont Mathieu", "Audrey Lee"]
 AUTHOR_EMAILS = ["dacremontm@aetna.com", "leey@cvshealth.com"]
 PYTHON_REQ = ">=3.7"
 PACKAGES = find_packages(exclude=["*.tests", "*.tests.*"])
