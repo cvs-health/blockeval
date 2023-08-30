@@ -37,4 +37,4 @@ Please follow this [notebook](https://github.com/cvs-health/blockeval/blob/main/
 
 ## Medium Blog Post
 
-We wrote a comprehensive review of *blockeval* in a Medium blog [post](https://medium.com/cvs-health-tech-blog/analyzing-randomized-block-design-and-uplift-campaigns-with-python-9a9dc5c8b064) with a companion [notebook](https://github.aetna.com/1636171/blockeval/blob/main/examples/medium_post.ipynb).
+We wrote a comprehensive review of *blockeval* in a Medium blog [post](https://medium.com/cvs-health-tech-blog/analyzing-randomized-block-design-and-uplift-campaigns-with-python-9a9dc5c8b064) with a companion [notebook](https://github.com/cvs-health/blockeval/blob/main/examples/medium_post.ipynb).
