@@ -33,8 +33,8 @@ from blockeval.utils import campaign_simulation
 
 ## Quick Start
 
-Please follow this [notebook](https://github.aetna.com/1636171/blockeval/blob/main/examples/quickstart.ipynb) for a quick introduction to the package.
+Please follow this [notebook](https://github.com/cvs-health/blockeval/blob/main/examples/quickstart.ipynb) for a quick introduction to the package.
 
 ## Medium Blog Post
 
-We wrote a Medium blog [post](https://medium.com/cvs-health-tech-blog/analyzing-randomized-block-design-and-uplift-campaigns-with-python-9a9dc5c8b064) with a [notebook](https://github.aetna.com/1636171/blockeval/blob/main/examples/medium_post.ipynb) to give a comprehensive review of *blockeval*.
+We wrote a comprehensive review of *blockeval* in a Medium blog [post](https://medium.com/cvs-health-tech-blog/analyzing-randomized-block-design-and-uplift-campaigns-with-python-9a9dc5c8b064) with a companion [notebook](https://github.aetna.com/1636171/blockeval/blob/main/examples/medium_post.ipynb).
