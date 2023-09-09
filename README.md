@@ -4,12 +4,13 @@ Python module designed to analyze randomized block design. Blocks can be populat
 
 With *blockeval*, users can:
 - Estimate the treatment effect for each block
-- Roll-up the results to get the overall effects for groups of blocks
-- Compare the treatment effects between blocks or groups of blocks
-- Estimate the overall treatment effect of the campaign
+- Roll-up results to get effects for groups of blocks or the entire campaign
+- Compare the treatment effects between blocks or groups of blocks (uplift)
 - Resolve Simpson’s paradox
+- Provide p-values and confidence intervals
 - Handle non-normal distributions with bootstrapping
 
+Results are also valid if the blocks are defined after the intervention in a completely randomized design (as opposed to a randomized block design).
 
 ## Contributors
 
